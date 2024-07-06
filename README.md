@@ -1,21 +1,5 @@
-# Assembly, EVM Opcodes, and Formal Verification
+# Solidity Assembly(Yul), E.V.M. Opcodes, and Formal Verification.
 
-Welcome to the repository for the Assembly, EVM Opcodes, and Formal Verification Course by Cyfrin Updraft!
-
-This repository houses the written content of our courses, organized to facilitate easy access and contribution from our community.
-Please refer to this for an in-depth explanation of the content:
-
--   [Website](https://updraft.cyfrin.io/) - Join Cyfrin Updraft and enjoy 50+ hours of smart contract development courses
--   [Twitter](https://twitter.com/cyfrinupdraft) - Stay updated with the latest course releases
--   [LinkedIn](https://www.linkedin.com/school/cyfrin-updraft/) - Add Updraft to your learning experiences
--   [Discord](http://discord.gg/cyfrin) - Join a community of 3000+ developers and auditors
--   [Newsletter](https://www.cyfrin.io/newsletter) - Weekly security research tips and resources to level up your career
--   [Codehawks](https://www.codehawks.com/) - Smart contracts auditing competitions to help securing web3
-
-
-This was considered part 2 of the [security and auditing course](https://updraft.cyfrin.io/courses/security), but now, it's it's own living breathing course!
-
-# Table of Contents
 - [Assembly, EVM Opcodes, and Formal Verification](#assembly-evm-opcodes-and-formal-verification)
 - [Table of Contents](#table-of-contents)
 - [Introduction, Resources, and Prerequisites](#introduction-resources-and-prerequisites)
