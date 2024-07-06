@@ -3,7 +3,6 @@
 - [Assembly, EVM Opcodes, and Formal Verification](#assembly-evm-opcodes-and-formal-verification)
 - [Table of Contents](#table-of-contents)
 - [Introduction, Resources, and Prerequisites](#introduction-resources-and-prerequisites)
-  - [Link to video: *Coming soon...*](#link-to-video-coming-soon)
   - [Resources For This Course](#resources-for-this-course)
     - [Challenge Contracts Registry](#challenge-contracts-registry)
   - [Prerequisites](#prerequisites)
