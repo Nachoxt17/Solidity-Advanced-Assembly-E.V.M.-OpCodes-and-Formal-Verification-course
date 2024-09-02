@@ -163,9 +163,10 @@ Note: You can get through this course with just having an advanced grasp of soli
 - [HEVM](https://github.com/ethereum/hevm)
 - [foundry-huff](https://github.com/huff-language/foundry-huff)
 - Introduction to Yul
-    - Security considerations (compiler doesn’t keep you safe anymore!)
+    - Security considerations (compiler doesn’t keep you safe anymore!).
+    - [Yul Documentations](https://docs.soliditylang.org/en/v0.8.26/yul.html#yul)
 - Introduction to Huff
-    - [huff docs](https://huff.sh/)
+    - [Huff Documentations](https://huff.sh/)
 - Forge debugger
 - Tenderly Debugger
 - Decompilers
